@@ -11,7 +11,7 @@ body
 {
     display: flex;
     justify-content: center;
-    background-image: url("pexels-zaksheuskaya-1568607.jpg");
+    background-image: url("../img/pexels-zaksheuskaya-1568607.jpg");
     background-size: cover;
 }
 
@@ -37,7 +37,7 @@ body
 
 .main .content .link
 {
-    background-image: url("pexels-iconcom-220634.jpg");
+    background-image: url("../img/pexels-iconcom-220634.jpg");
     background-size: cover;
     background-color: black;
     margin: 40px;
